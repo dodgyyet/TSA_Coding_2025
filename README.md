@@ -2,5 +2,6 @@
 <p>Movement is used in logo.png, logo-small.png, adaptive-icon.png, favicon.png, icon.png, and splash.png</p>
 <p></p>
 <a href="https://www.canva.com" title="canva icons">All other icons are created using royalty free canva elements</a>
+<p></p>
 <a href="https://www.pixabay.com" title="thumbnail icons"> All thumbnail content in in-app posts are sourced royalty from from pixabay.com or created in canva</a>
 
