@@ -8,4 +8,4 @@
 <p></p>
 <a href="https://www.kevinguay.com/icon-maker/" title="sample avatars">All sample avatars are created using the icon maker from kevinguay.com </a>
 <p></p>
-<a href="https://www.appwrite.com" title="appwrite database">Uses Appwrite database for backend</a>
+<a href="https://www.cloud.appwrite.io" title="appwrite database">Uses Appwrite database for backend</a>
