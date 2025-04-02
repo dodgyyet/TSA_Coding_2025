@@ -4,8 +4,8 @@
 <p></p>
 <a href="https://www.canva.com" title="canva icons">All other icons are created using royalty free canva elements</a>
 <p></p>
-<a href="https://www.pixabay.com" title="thumbnail icons"> All thumbnail content for in-app posts is sourced royalty free from pixabay.com or created using royalty free canva elements</a>
+<p> All thumbnail content for in-app posts is sourced royalty free from <a href="https://www.pixabay.com">pixabay.com</a> or created using <a href="https://www.canva.com">Canva</a> royalty free elements</a>
 <p></p>
-<a href="https://www.kevinguay.com/icon-maker/" title="sample avatars">All sample avatars are created using the icon maker from kevinguay.com </a>
+<p>All sample avatars are created using the icon maker from <a href="https://www.kevinguay.com/icon-maker/">kevinguay.com</a></p>
 <p></p>
 <a href="https://cloud.appwrite.io" title="appwrite database">Uses Appwrite database for backend</a>
