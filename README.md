@@ -4,7 +4,7 @@
 <p></p>
 <a href="https://www.canva.com" title="canva icons">All other icons are created using royalty free canva elements</a>
 <p></p>
-<a href="https://www.pixabay.com" title="thumbnail icons"> All thumbnail content for in-app posts is sourced royalty from from pixabay.com or created in canva</a>
+<a href="https://www.pixabay.com" title="thumbnail icons"> All thumbnail content for in-app posts is sourced royalty free from pixabay.com or created use royalty free canva elements</a>
 <p></p>
 <a href="https://www.kevinguay.com/icon-maker/" title="sample avatars">All sample avatars are created using the icon maker from kevinguay.com </a>
 <p></p>
